@@ -12,5 +12,6 @@ public class InheritanceDemo {
         child.j = 30;
         child.k=30;
         child.showij();
+        child.showk();
     }
 }
