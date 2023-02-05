@@ -1,4 +1,4 @@
-public class AccesscontroDemo {
+public class AccessControDemo {
     int a;// default variable
     public int b; // public access
     private  int c;// private access
