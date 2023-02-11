@@ -1,7 +1,7 @@
 public class ForloopDemo {
     public static void main (String[] args) {
 
-        /*For (initialisation, codition, inarion)
+        /*For (initialisation, condition, iteration)
         {
            <<Statement>>
         }*/

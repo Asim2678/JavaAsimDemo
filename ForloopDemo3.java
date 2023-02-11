@@ -5,7 +5,7 @@ public class ForloopDemo3 {
         for (a=1, b=4; a<b ;a++)
         {
             System.out.println("Value of a : "+ a);
-            System.out.println("Value of a : "+ b);
+            System.out.println("Value of b : "+ b);
         }
     }
 }
