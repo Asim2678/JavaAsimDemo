@@ -5,7 +5,9 @@ public class OverridingA {
         j= b;
 
     }
-    void show(){
+    void show()
+    {
         System.out.println("i and j  :" + i + "," + j);
+
     }
 }
