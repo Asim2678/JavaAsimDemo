@@ -1,8 +1,10 @@
 public class InheritanceA {
 
-    int i,j;
+    int i,j;//data members
 
-    void showij(){
+    void showij() //method
+    {
+
         System.out.println("value fo in and j " + i + ","+ j);
     }
 }

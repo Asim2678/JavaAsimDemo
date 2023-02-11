@@ -1,7 +1,9 @@
 public class InheritanceB  extends InheritanceA{
 
     int k;
-    void showk(){
+    void showk()
+    {
         System.out.println("value of k : "+ k);
+
     }
 }
