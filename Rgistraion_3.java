@@ -1,4 +1,4 @@
-public class Rgistraion2 {
+public class Rgistraion_3 {
 
     public static void main (String []args){
 

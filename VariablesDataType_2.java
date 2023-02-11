@@ -1,4 +1,4 @@
-public class VariablesDataType {
+public class VariablesDataType_2 {
 
 
         //method
