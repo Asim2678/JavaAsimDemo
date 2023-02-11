@@ -3,7 +3,8 @@ public class InheritanceDemo {
 
         InheritanceA parent = new InheritanceA();
         InheritanceB child = new InheritanceB();
-
+        InheritanceC child2 = new InheritanceC(10,20);
+        /*
         parent.i = 10;
         parent.j= 2;
         parent.showij();
@@ -13,5 +14,7 @@ public class InheritanceDemo {
         child.k=30;
         child.showij();
         child.showk();
+        */
+         child2.showi();
     }
 }
