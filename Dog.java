@@ -23,4 +23,5 @@ public class Dog {
     public void setweight(int w){
         weight = w;
     }
+    //this has issues
 }
